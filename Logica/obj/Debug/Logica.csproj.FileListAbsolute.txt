@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\bin\Debug\Logica.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\bin\Debug\Logica.pdb
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\bin\Debug\Datos.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\bin\Debug\Entidades.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\bin\Debug\Datos.pdb
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\bin\Debug\Entidades.pdb
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\bin\Debug\Entidades.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.pdb

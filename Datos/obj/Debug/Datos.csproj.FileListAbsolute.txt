@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\bin\Debug\Datos.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\bin\Debug\Datos.pdb
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\bin\Debug\Entidades.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\bin\Debug\Entidades.pdb
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\obj\Debug\Datos.dll
+C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Datos\obj\Debug\Datos.pdb
