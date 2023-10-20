@@ -9,3 +9,14 @@ C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\o
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.csproj.CopyComplete
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.dll
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Logica\obj\Debug\Logica.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\bin\Debug\Logica.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\bin\Debug\Logica.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\bin\Debug\Datos.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\bin\Debug\Entidades.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\bin\Debug\Datos.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\bin\Debug\Entidades.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\obj\Debug\Logica.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Logica\obj\Debug\Logica.pdb

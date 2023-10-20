@@ -12,3 +12,17 @@ C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Presenta
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Presentacion.exe
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Presentacion.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Entidades.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Logica.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Datos.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Entidades.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Logica.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\bin\Debug\Datos.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.exe
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Presentacion\obj\Debug\Presentacion.pdb

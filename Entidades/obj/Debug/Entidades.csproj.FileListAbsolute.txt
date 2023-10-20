@@ -4,3 +4,9 @@ C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidade
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.dll
 C:\Users\HP\Documents\SEMESTRE-N6\Programacion-III\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Entidades\bin\Debug\Entidades.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Entidades\bin\Debug\Entidades.pdb
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.dll
+C:\Proyectos-git\AprendiendoHacerCrud\Aprendiendohacercrud\Entidades\obj\Debug\Entidades.pdb

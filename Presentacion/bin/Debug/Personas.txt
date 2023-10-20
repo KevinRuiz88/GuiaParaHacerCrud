@@ -1,0 +1,4 @@
+1003317359,Kevin,Ruiz,20,Masculino
+123,Pedro,Rodriguez,35,Masculino
+12345,Marta,Suarez,24,Femenino
+12345,Laura,Orozco,21,Femenino
